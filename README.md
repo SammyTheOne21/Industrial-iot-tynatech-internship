@@ -307,7 +307,7 @@ Comprehensive documentation available in `07_Documentation/`:
 
 ## 📧 Contact & Contributions
 
-**Project Author:** [Your Name]  
+**Project Author:** Samrat Sharma  
 **Purpose:** Tynatech Industrial IoT Internship Preparation  
 **Duration:** Jan 8 - Jan 17, 2026 (9 days intensive)  
 **Status:** In Progress  
