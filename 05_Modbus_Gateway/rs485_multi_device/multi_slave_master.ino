@@ -9,7 +9,7 @@
  * - Device 2 (Addr 2): Humidity sensor  
  * - Device 3 (Addr 3): Pressure sensor
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
