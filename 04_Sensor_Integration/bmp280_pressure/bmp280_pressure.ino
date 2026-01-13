@@ -272,7 +272,7 @@ void printSummary() {
  * Td = T - ((100 - RH) / 5)
  * Where T = temperature, RH = rel. humidity
  * 
- * TYNATECH APPLICATION:
+ * COMPANY'S APPLICATION:
  * 
  * Multi-sensor node:
  * - BMP280: Pressure & temp
