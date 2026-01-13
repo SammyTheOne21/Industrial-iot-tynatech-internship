@@ -6,7 +6,7 @@
  * 
  * This decodes your sensor data into human-readable format
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
