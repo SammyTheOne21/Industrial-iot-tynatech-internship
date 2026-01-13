@@ -15,7 +15,7 @@
  * - Non-blocking: loop() runs continuously without delay()
  * - Multiple tasks can run "simultaneously"
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  * Project: Tynatech IoT Internship Preparation
  */
