@@ -25,7 +25,7 @@
  * -1A  → 2.315V (2.5 - 0.185)
  * +5A  → 3.425V (2.5 + 0.925)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
