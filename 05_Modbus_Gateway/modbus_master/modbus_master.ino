@@ -15,7 +15,7 @@
  * ESP32 GPIO 4 → RS485 DE/RE
  * RS485 A/B → Modbus bus
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
@@ -228,7 +228,7 @@ void printSummary() {
  * slave1.begin(1, Serial2);  // Address 1
  * slave2.begin(2, Serial2);  // Address 2
  * 
- * TYNATECH APPLICATION:
+ * COMPANY'S APPLICATION:
  * 
  * ESP32 Modbus Master reads:
  * - Slave 1: Temperature sensor
