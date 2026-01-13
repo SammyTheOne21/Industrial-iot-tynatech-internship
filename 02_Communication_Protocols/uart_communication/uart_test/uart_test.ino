@@ -7,7 +7,7 @@
  * Hardware: ESP32
  * UART2 Pins: RX = GPIO 16, TX = GPIO 17
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
