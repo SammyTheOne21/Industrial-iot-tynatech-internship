@@ -12,7 +12,7 @@
  * 3. Register device
  * 4. Get keys: AppEUI, DevEUI, AppKey
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
