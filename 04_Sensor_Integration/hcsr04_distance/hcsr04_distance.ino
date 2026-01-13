@@ -351,7 +351,7 @@ void printSummary() {
  * + Waterproof
  * + For underwater measurement
  * 
- * TYNATECH APPLICATION:
+ * COMPANY'S APPLICATION:
  * 
  * Combined monitoring system:
  * - HC-SR04: Tank level
