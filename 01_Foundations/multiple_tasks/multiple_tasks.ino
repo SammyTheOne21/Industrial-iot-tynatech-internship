@@ -17,7 +17,7 @@
  * - No task blocks another
  * - System stays responsive
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
