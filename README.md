@@ -1,4 +1,4 @@
-# Industrial IoT Learning Project - Tynatech Internship Preparation
+# Industrial IoT Learning Project 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hardware: ESP32](https://img.shields.io/badge/Hardware-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-A comprehensive Industrial IoT learning project focused on mastering communication protocols (Modbus RTU, LoRaWAN, RS485, I2C, UART) and sensor integration for industrial automation applications. Prepared for Tynatech Industrial IoT Internship.
+A comprehensive Industrial IoT learning project focused on mastering communication protocols (Modbus RTU, LoRaWAN, RS485, I2C, UART) and sensor integration for industrial automation applications. 
 
 ### Key Technologies
 - **Microcontroller:** Heltec ESP32 LoRa V3 with OLED
@@ -325,7 +325,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Tynatech** - For the internship opportunity
 - **Heltec Automation** - For excellent ESP32 LoRa boards
 - **The Things Network** - For free LoRaWAN infrastructure
 - **Arduino Community** - For extensive libraries and support
