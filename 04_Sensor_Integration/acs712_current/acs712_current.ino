@@ -19,7 +19,7 @@
  * ESP32 input: Max 3.3V
  * Use 2:1 divider (e.g., 10kΩ + 10kΩ)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
@@ -227,7 +227,7 @@ void printSummary() {
  * 
  * Circuit:
  * ACS712 OUT ──┬─── 10kΩ ───┬─── ESP32 GPIO 34
- *              │             │
+ *              │            │
  *              └─── 10kΩ ───┴─── GND
  * 
  * Output voltage = Input / 2
