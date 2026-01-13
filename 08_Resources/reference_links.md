@@ -212,8 +212,8 @@ See `08_Resources/datasheets/` folder for PDF datasheets:
 
 ### Company Research
 - **Company's Website:** [Company URL]
-- **LinkedIn:** Search "<Company Name>" + your location
-- **Google News:** "<Company Name> IoT projects"
+- **LinkedIn:** Search "<Company_name>" + your location
+- **Google News:** "<Company_name> IoT projects"
 - **Crunchbase:** Company profile and funding
 
 ### Industry Standards
