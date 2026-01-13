@@ -18,7 +18,7 @@
  * Note: ECHO outputs 5V, but ESP32 GPIO is 5V tolerant
  * For safety, can use voltage divider on ECHO
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
