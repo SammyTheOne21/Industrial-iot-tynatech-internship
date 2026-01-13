@@ -17,7 +17,7 @@
  * 
  * Author: Samrat Sharma
  * Date: January 2026
- * Project: Tynatech IoT Internship Preparation
+ * Project: IoT Internship Project (or interview preparation if applying using IIoT as a skill
  */
 
 // Global variables
