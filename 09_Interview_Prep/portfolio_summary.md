@@ -261,6 +261,4 @@ You now have:
 
 ---
 
-**Your repository is now professional, complete, and ready to showcase to Company you're applying at!** 🚀
-
 Good luck with your internship application and hardware testing! 💪
