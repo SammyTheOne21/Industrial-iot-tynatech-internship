@@ -10,7 +10,7 @@
  * Day 4: Test LoRa radio functionality
  * Day 7: Upgrade to full LoRaWAN
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
