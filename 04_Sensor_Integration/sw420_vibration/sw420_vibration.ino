@@ -17,7 +17,7 @@
  * 
  * Note: Adjust potentiometer on module for sensitivity
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
@@ -303,7 +303,7 @@ void printSummary() {
  * - Random pattern: External disturbance
  * - Increasing frequency: Degradation
  * 
- * TYNATECH APPLICATION:
+ * Company's APPLICATION:
  * 
  * Machine health monitoring:
  * - SW-420: Vibration detection
