@@ -17,7 +17,7 @@
  * Note: 10kΩ pull-up resistor between DATA and VCC
  * (Usually built into DHT22 modules)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
